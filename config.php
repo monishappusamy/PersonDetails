@@ -2,7 +2,7 @@
 $servername = "127.0.0.1";
 $username = "root";
 $password = "";
-$dbname = "stevens";
+$dbname = "form";
 $port = 3306;
 
 // Create connection
